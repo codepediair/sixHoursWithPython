@@ -1,9 +1,4 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Vazirmatn&display=swap');
-    body {
-          font-family: 'Vazirmatn', sans-serif;
-    }
-</style>
+
 # دوره پایتون در شش ساعت #
 ## سر فصل های مطرح شده پروژه محور هستند
 - [ ] 1. معرفی دوره
